@@ -6,7 +6,11 @@ ronaldo
 me
 you 
 all
+
+null
+
 your friend
+
 
 thank you
 done
